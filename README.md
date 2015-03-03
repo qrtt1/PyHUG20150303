@@ -46,3 +46,11 @@ project/
   * build.sh 即為專案編譯的 script (呼叫 cmake 產生 Makefile 並執行 make)，會依 VENDOR 環境變數決定是否要使用 toolcahin 設定
   * docker-build.sh 啟動 docker container 後，並執行 build.sh
   * docker-build.sh 啟動 docker container 後，執行 /bin/bash (可作為互動模式使用)
+
+
+## 相關資訊
+
+  * 活動訊息 [Sharing Night: Docker to Link](http://www.meetup.com/pythonhug/events/220493415/)
+  * 投影片 on [SpeakerDeck](https://speakerdeck.com/qrtt1/linking-error)
+  * 投影片 on [SlideShare](http://www.slideshare.net/qrtt1/linking-error)
+
