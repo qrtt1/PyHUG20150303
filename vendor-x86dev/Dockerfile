@@ -1,8 +1,5 @@
-FROM ubuntu:14.04.1
+FROM mybaseimage
 ENV DEBIAN_FRONTEND noninteractive 
-
-# update apt-package-index
-RUN apt-get update -y
 
 # install software
 RUN apt-get install -y cmake
