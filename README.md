@@ -53,4 +53,5 @@ project/
   * 活動訊息 [Sharing Night: Docker to Link](http://www.meetup.com/pythonhug/events/220493415/)
   * 投影片 on [SpeakerDeck](https://speakerdeck.com/qrtt1/linking-error)
   * 投影片 on [SlideShare](http://www.slideshare.net/qrtt1/linking-error)
+  * 活動錄影 on [YouTube](https://www.youtube.com/watch?v=qwSFEXDya-w)
 
